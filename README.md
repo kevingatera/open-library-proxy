@@ -3,7 +3,7 @@
 > [!WARNING]
 > This project is a work in progress and the Servarr team provides **no support** for it
 >
-> Please reach out to @saghen via discord or via email at liamcdyer@gmail.com if you're interested in contributing
+> Please get the `Testarr` role on [Servarr Discord](https://discord.com/invite/8Dbsx35rrx) and check out the #readarr-ol channel if you'd like to get involved
 
 Serve a search, author and bulk API on top of the [OpenLibrary](https://openlibrary.org/developers/dumps) corpus. Primarily for consumption by [Readarr](https://wiki.servarr.com/readarr).
 
